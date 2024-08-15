@@ -1,0 +1,63 @@
+# Ignore build output
+MyApp/bin/
+MyApp/obj/
+
+# Ignore NuGet packages
+*.nupkg
+*/packages/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.sln.docstates
+
+# Ignore Visual Studio files
+.vs/
+
+# Ignore build artifacts
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.lib
+*.sbr
+*.sdf
+*.sln.docstates
+*.sln.docstates.cache
+*.suo
+*.user
+*.userosscache
+*.ilk
+*.mdf
+*.ldf
+*.bak
+*.sdf
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.sln.docstates.cache
+*.pdb
+*.dll
+*.exe
+*.cache
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
