@@ -1,5 +1,7 @@
 {
     "recommendations": [
+        "Postman.postman-for-vscode",
+        "usernamehw.errorlens",
         "ms-dotnettools.csdevkit",
         "github.copilot-chat"
     ]

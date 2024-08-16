@@ -61,3 +61,6 @@ MyApp/obj/
 *.pidb
 *.svclog
 *.scc
+
+# Secrets / tokens
+.env
